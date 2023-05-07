@@ -6,3 +6,7 @@ body{
     height: 700px;
     background-image: url("image/head.png");
 }
+input{
+     background: url('image/logo.png') no-repeat center left;
+    padding-left:30px;
+}
